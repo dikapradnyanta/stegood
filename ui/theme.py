@@ -46,8 +46,8 @@ FONT_TITLE = ("Fixedsys", 10, "bold")   # title bar, heading tab
 FONT_INPUT = ("Courier", 9)             # textarea input/output
 
 # ─── Dimensi Window ──────────────────────────────────────────────────────────
-WINDOW_WIDTH  = 640
-WINDOW_HEIGHT = 500   # sedikit lebih tinggi dari 480 untuk kenyamanan konten
+WINDOW_WIDTH  = 800
+WINDOW_HEIGHT = 600
 TITLE_BAR_HEIGHT = 28
 
 # ─── Preview Thumbnail ────────────────────────────────────────────────────────
